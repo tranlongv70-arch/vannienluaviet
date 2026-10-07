@@ -1,0 +1,6 @@
+{
+  "name": "Vân Niên Lụa - Không Gian Khám Phá & Phối Đồ Việt Phục",
+  "description": "Nền tảng khám phá, tùy biến và phối đồ trang phục truyền thống Việt Nam trực tuyến theo phong cách Tân cổ điển sang trọng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
